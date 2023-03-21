@@ -1,8 +1,8 @@
 {
-  "name": "new-folder-(5)",
+  "name": "video-downloder",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "dev": "nodemon server.js"
   },
